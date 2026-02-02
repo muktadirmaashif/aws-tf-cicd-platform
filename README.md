@@ -1,4 +1,3 @@
-```markdown
 # aws-tf-cicd-platform
 **An AWS-native, Terraform-driven CI/CD platform for deploying containerized applications using Jenkins, Docker, and Ansible**
 
@@ -156,6 +155,4 @@ The shared library acts as the **Platform API**. It abstracts complex logic away
 ---
 
 **Final Note:** This is a **delivery platform**. Treat it like infrastructure to ensure scalability and prevent technical decay.
-
-```
 
