@@ -1,5 +1,4 @@
-# aws-tf-cicd-platform
-**An AWS-native, Terraform-driven CI/CD platform for deploying containerized applications using Jenkins, Docker, and Ansible**
+## An AWS-native, Terraform-driven, Ansible-automated CI/CD platform for deploying containerized applications using Jenkins, and Docker
 
 ---
 
